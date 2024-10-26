@@ -31,7 +31,7 @@ The purpose of this tool is to assist sailors, navigators, and enthusiasts in ca
 
 ## 👤 Author
 
-Created by [Kevin Veen-Birkenbach](https://github.com/KevinVeen-Birkenbach). 
+Created by [Kevin Veen-Birkenbach](https://veen.world). 
 
 For more information about my nautical and yachtmaster services, visit 🌐 [yachtmaster.world](https://yachtmaster.world/).  
 For details about my IT solutions, check out 🌐 [cybermaster.space](https://cybermaster.space/).
