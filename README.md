@@ -10,7 +10,7 @@ The purpose of this tool is to assist sailors, navigators, and enthusiasts in ca
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/username/nautical-waypoint-relative-calcs.git
+    git clone https://github.com/kevinveenbirkenbach/nautical-waypoint-relative-calcs.git
     cd nautical-waypoint-relative-calcs
     ```
 
