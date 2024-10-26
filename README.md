@@ -40,7 +40,7 @@ This project was created with the assistance of AI. [Link to conversation](https
 
 ## 📜 License
 
-This software is licensed under the **GNU Affero General Public License, Version 3, 19 November 2007**. 
+This software is licensed under the **[GNU Affero General Public License, Version 3](./LICENSE)**. 
 
 ---
 
