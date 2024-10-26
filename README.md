@@ -33,10 +33,10 @@ The purpose of this tool is to assist sailors, navigators, and enthusiasts in ca
 
 Created by [Kevin Veen-Birkenbach](https://github.com/KevinVeen-Birkenbach). 
 
-For more information about Kevin's Yachtmaster services, visit 🌐 [yachtmaster.world](https://yachtmaster.world/).  
-For details about his IT solutions, check out 🌐 [cybermaster.space](https://cybermaster.space/).
+For more information about my nautical and yachtmaster services, visit 🌐 [yachtmaster.world](https://yachtmaster.world/).  
+For details about my IT solutions, check out 🌐 [cybermaster.space](https://cybermaster.space/).
 
-This project was created with the assistance of AI. [Link to conversation](https://chat.openai.com/).
+This project was created with the assistance of AI. The conversation you will find [here](https://chatgpt.com/share/671d4d0c-aa1c-800f-be1a-7dd320f02518).
 
 ## 📜 License
 
